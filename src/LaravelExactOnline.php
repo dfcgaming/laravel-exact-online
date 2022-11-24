@@ -417,7 +417,7 @@ class LaravelExactOnline
 
         if (Storage::exists('exact.api.json')) {
             $config = Storage::get(
-                'exact.api.json',
+                'exact.api.json'
             );
         }
 
