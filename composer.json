@@ -2,7 +2,7 @@
   "name": "websmurf/laravel-exact-online",
   "description": "Laravel Facade wrapper for Exact Online PHP API",
   "require": {
-    "picqer/exact-php-client": "^3.1",
+    "picqer/exact-php-client": "^3.1|^4.0",
     "ext-json": "*"
   },
   "require-dev": {
